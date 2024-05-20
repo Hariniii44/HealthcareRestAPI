@@ -16,6 +16,7 @@ Prescription Management: Issue and manage prescriptions for patients, including 
 Billing: Handle financial transactions related to healthcare services, including invoicing, payments, and outstanding balances.
 
 System Entities
+
 Person: Represents a generic individual with attributes such as name, contact information, and address.
 Patient: Extends the Person entity to include specific details relevant to patients, such as medical history and current health status.
 Doctor: Extends the Person entity to include information about healthcare professionals, including their specialization and contact details.
@@ -25,6 +26,7 @@ Prescription: Records information about prescribed medications, including dosage
 Billing: Manages financial transactions related to healthcare services, including invoices, payments, and outstanding balances.
 
 Logging and Exception Handling
+
 The API includes comprehensive logging and exception handling to provide detailed information for debugging and auditing. Proper HTTP response codes are used for various scenarios to ensure informative error messages and appropriate handling of exceptions.
 
 Installation
