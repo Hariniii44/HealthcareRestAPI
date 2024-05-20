@@ -1,12 +1,18 @@
 Health System API - README
 Introduction
+
 The Health System API is a RESTful web service designed to facilitate modern healthcare management. This API provides essential functionalities for patient management, appointment scheduling, medical record keeping, prescription management, and billing. The API serves as a foundation for various healthcare applications and systems, enabling efficient and secure handling of healthcare data.
 
 Features
+
 Patient Management: Create, update, retrieve, and delete patient information.
+
 Appointment Scheduling: Manage appointments between patients and doctors, including scheduling, updating, and cancelling appointments.
+
 Medical Record Keeping: Store and access detailed medical records for patients, including diagnoses, treatments, and medical history.
+
 Prescription Management: Issue and manage prescriptions for patients, including medication details and dosage instructions.
+
 Billing: Handle financial transactions related to healthcare services, including invoicing, payments, and outstanding balances.
 
 System Entities
